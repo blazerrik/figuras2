@@ -1,5 +1,5 @@
 class Figuras:
-
+'''pinchi travis'''
     def cuadrado(self, lado):
         try:
             lado = float(lado)
